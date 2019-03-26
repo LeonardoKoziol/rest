@@ -95,7 +95,6 @@ header h1{
 .fundo_menu{
 	background: #303030;
 	height: 100%;
-	
 }
 
 .titulo{
@@ -106,8 +105,8 @@ header h1{
 	text-align: justify;
 }
 .barra{
-	border-top:  1px dashed #8a8a8a;
-	
+	border-bottom: 1px dashed #8a8a8a;
+	padding-bottom: 10px;
 
 }
 
@@ -115,7 +114,7 @@ header h1{
 	font-family: 'Baumans', cursive;
 	font-size: 20px;
 	color: white;
-	
+	text-align: justify;
 }
 
 .desc_prato{
@@ -127,7 +126,6 @@ header h1{
 
 .cardapio li{
 	border-bottom: 1px dashed #8a8a8a;
-	padding-bottom: 10px;
 }
 .preco{
 	font-family: 'Sniglet', cursive;
@@ -161,7 +159,6 @@ header h1{
 	background-color: #000;
 	height: 100%;
 
-
 }
 .rodape2 a{
 	display: inline-block;
@@ -189,17 +186,9 @@ header h1{
 .texto_sobre h1{
 	color: #ff5353;
 }
-.texto_sobre h3{
-	color: #fff;
-}
 
 .texto_sobre{
 	color: #8a8a8a;
-	text-align: justify;
-	
-}
-.foto{
-	width:100%;
 }
 .mapa{
 	text-align: center;
@@ -216,16 +205,5 @@ header h1{
 	font-family: 'Baumans', cursive;
 	font-size: 20px;
 	color: white;
-}
-.barra2{
-	border-bottom: 1px dashed #8a8a8a;
-	padding-bottom: 20px;
-}
-.menu_borda2{
-	background: #313131;
-	height: 70px;
-	width: 100%;
-	top: 0px;
-	margin: 0 auto;
-	text-align: center;
+	
 }
